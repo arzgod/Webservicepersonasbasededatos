@@ -1,0 +1,3 @@
+sv\edu\ufg\webservices\webservicepersonas\webservices\PersonasWebService.class
+sv\edu\ufg\webservices\webservicepersonas\entities\Personas.class
+sv\edu\ufg\webservices\webservicepersonas\repositories\PersonasRepository.class
